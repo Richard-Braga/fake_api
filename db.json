@@ -1,0 +1,360 @@
+{
+    "Categorias": [
+        {
+            "id": "1",
+            "urlImagem": "https://conteudo.imguol.com.br/c/entretenimento/ad/2020/08/04/molhos-e-massas-diferentes-podem-dar-mais-variedade-ao-seu-cardapio-1596561195532_v2_4x3.jpg",
+            "categoria": "Massas"
+        },
+
+        {
+            "id": "2",
+            "urlImagem": "'https://supermercadosrondon.com.br/guiadecarnes/images/postagens/as_7_melhores_carnes_para_churrasco_21-05-2019.jpg",
+            "categoria": "Carnes"
+        },
+
+        {
+            "id": "3",
+            "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2020/01/shutterstock_661447876.jpg",
+            "categoria": "Aves"
+        },
+
+        {
+            "id": "4",
+            "urlImagem": "https://espetinhodesucesso.com/wp-content/uploads/2022/03/Como-fazer-peixe-frito-inteiro.jpg",
+            "categoria": "Peixes"
+        },
+
+        {
+            "id": "5",
+            "urlImagem": "https://images.elle.com.br/2022/12/avec_salada-grega.jpg",
+            "categoria": "Saladas"
+        },
+
+        {
+            "id": "6",
+            "urlImagem": "https://s2-receitas.glbimg.com/n7d-Ule7CHsHSBvQyF9KhMEmkU8=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/J/H/uBe51BRMiAgskpDJXKcg/pave-de-chocolate.jpg",
+            "categoria": "Sobremesas"
+        },
+
+        {
+            "id": "7",
+            "urlImagem": "https://www.estadao.com.br/resizer/v2/QQESWMTIVFBLHOEENMQ5ZSYS5E.jpg?quality=80&auth=f3637ccd94435f99ac1aa126367c0ba9167e49b28340c8c4d2d209dbf9dce3ba&width=720&height=410&smart=true",
+            "categoria": "Tortas"
+        }
+    ],
+
+    "Receitas_categoria": [
+        {
+            "id": "1",
+            "urlImagem": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ravioli_di_Faraona.JPG",
+            "receita": "Ravioli de Faraona",
+            "user": "Isabela Ferreira",
+            "categoria_id": "1",
+            "timer": "1h 20 min"
+        },
+        
+        {
+            "id": "2",
+            "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2014/01/lasanha-bolonhesa-na-pressao.jpg",
+            "receita": "Lasanha Bolonhesa",
+            "user": "Rayanne Vitória",
+            "categoria_id": 1,
+            "timer": "1h 30 min"
+        },
+
+        {
+            "id": 3,
+            "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/canelone-tradicional.jpg",
+            "receita": "Canelone Tradicional",
+            "user": "Daiane dos Santos",
+            "categoria_id": "1",
+            "timer": "40 min"
+        },
+
+        {
+            "id": "4",
+            "urlImagem": "https://www.giallozafferano.com.br/images/5-530/Tortellini_650x433_wm.jpg",
+            "receita": "Tortellini",
+            "user": "Brenda Alves",
+            "categoria_id": "1",
+            "timer": "40 min"
+        },
+
+        {
+            "id": "5",
+            "urlImagem": "https://myfoodbook.com.au/sites/default/files/styles/card_c_xw_wp/public/recipe_photo/Spaghetti_Bolognese%20Sauce_0.jpeg",
+            "receita": "Spaghetti Bolognese",
+            "user": "Isabella Ribeiro",
+            "categoria_id": "1",
+            "timer": "25 min"
+        },
+
+        {
+            "id": "6",
+            "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/picanha-grelhada-na-churrasqueira-receita.jpg",
+            "receita": "Picanha Grelhada",
+            "user": "Marcus Fellype",
+            "categoria_id": "2",
+            "timer": "15 min"
+            },
+
+        {
+            "id": "7",
+            "urlImagem": "https://s2-receitas.glbimg.com/Sekdv7EdPfw90fD-CiGEhXfhTjw=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/C/k/FH6JwZRxe5q3bUrZASYA/carne-de-panela-com-batatas.jpg",
+            "receita": "Carne de Panela",
+            "user": "Jeferson Gama",
+            "categoria_id": "2",
+            "timer": "35 min"
+        },
+
+        {
+            "id": "8",
+            "urlImagem": "https://i.ytimg.com/vi/MjUQFcWAZsw/maxresdefault.jpg",
+            "receita": "Costela na Pressão",
+            "user": "Wadeilton Gomes",
+            "categoria_id": "2",
+            "timer": "40 min"
+        },
+
+        {
+            "id": "9",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywGzlIJVzEnvzDdLesDh9eeWs9FU9Ok5ABTW_nvC8s6WRTxgqfeXy_aSV&s=10",
+            "receita": "Bife à Parmegiana",
+            "user": "João Vitor",
+            "categoria_id": "2",
+            "timer": "45 min"
+        },
+
+        {
+            "id": "10",
+            "urlImagem": "https://www.tribunapr.com.br/wp-content/uploads/2025/07/11130933/carneassadacomlegumes-970x550.jpg",
+            "receita": "Carne Assada",
+            "user": "Rodrigo dos Santos",
+            "categoria_id": "2",
+            "timer": "35 min"
+        },
+
+        {
+            "id": "11",
+            "urlImagem": "https://img.band.com.br/image/2025/06/18/frango-assado-com-legumes-e-ervas-185617.jpg",
+            "receita": "Frango Assado",
+            "user": "Gustavo Rafael",
+            "categoria_id": "3",
+            "timer": "30 min"
+        },
+
+        {
+            "id": "12",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRikwJevIhQ8nTOFNkbWv7KZwF2jAiccVQSr9CoeJkogWcGbphwIsTzQ1&s=10",
+            "receita": "Frango Xadrez",
+            "user": "Raissa Almeida",
+            "categoria_id": "3",
+            "timer": "25 min"
+        },
+
+        {
+            "id": "13",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhM9mbflOGSLZo1qczXrdfgTUxIo4mptZP2__D68MFL-JOIvShHjZriaT0&s=10",
+            "receita": "Coxinha de Frango",
+            "user": "Lucas Adiel",
+            "categoria_id": "3",
+            "timer": "30 min"
+        },
+        {
+            "id": "14",
+            "urlImagem": "https://www.confeiteiradesucesso.com/wp-content/uploads/2023/03/filepeitofrangogrelhado.jpg",
+            "receita": "Frango Grelhado",
+            "user": "José Adryellison",
+            "categoria_id": "3",
+            "timer": "1h 30 min"
+        },
+
+        {
+            "id": "15",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoeFsA0rmlySlOQq3Jmweq28Ak1Dt_sc8ZKUzFp-67-LQ9ZiBScUJIYHY&s=10",
+            "receita": "Frango a milanesa",
+            "user": "Marcos Antônio",
+            "categoria_id": "3",
+            "timer": "45 min"
+        },
+
+        {
+            "id": "16",
+            "urlImagem": "https://areademulher.r7.com/wp-content/uploads/2023/02/2-19.jpg",
+            "receita": "Peixe Assado",
+            "user": "Mateus Cavalcante",
+            "categoria_id": "4",
+            "timer": "35 min"
+        },
+
+        {
+            "id": "17",
+            "urlImagem": "https://receitinhasdadani.com.br/wp-content/uploads/2024/11/Salmao-grelhado-com-toque-de-mel--1140x720.jpeg",
+            "receita": "Salmão Grelhado",
+            "user": "Maycon Daniel",
+            "categoria_id": "4",
+            "timer": "45 min"
+        },
+
+        {
+            "id": "18",
+            "urlImagem": "https://www.mariareceita.com.br/wp-content/uploads/2026/01/Moqueca-de-Peixe-Facil.jpg",
+            "receita": "Moqueca de Peixe",
+            "user": "Gabriel de Andrade",
+            "categoria_id": "4",
+            "timer": "50 min"
+        },
+
+        {
+            "id": "19",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmT-e1XH8Dk91Q7ognPW8yzNSE6K278daRpX4DVAf0q5e0V1AdOOc86dB&s=10",
+            "receita": "Bacalhau ao Forno",
+            "user": "Ycaro dos Reis",
+            "categoria_id": "4",
+            "timer": "45 min"
+        },
+
+        {
+            "id": "20",
+            "urlImagem": "https://minhasreceitinhas.com.br/wp-content/uploads/2017/09/camar%C3%A3o-frito-com-casca.jpg",
+            "receita": "Camarão frito",
+            "user": "Geovanna Duarte",
+            "categoria_id": "4",
+            "timer": "35 min"
+        },
+        {
+            "id": "21",
+            "urlImagem": "https://minhasreceitinhas.com.br/wp-content/uploads/2025/03/salada-caesar-para-4-pessoas.jpg",
+            "receita": "Salada Caesar",
+            "user": "Maria Eduarda",
+            "categoria_id": "5",
+            "timer": "20 min"
+        },
+
+        {
+            "id": "22",
+            "urlImagem": "https://s2-receitas.glbimg.com/gQcYutciej1aRVKbDWNKdOFIn04=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/a/s/qsN6WGRjK6h9tdRv4kaw/salada-de-grao-de-bico.jpg",
+            "receita": "Salada de Grão de Bico",
+            "user": "Clarice Feitoza",
+            "categoria_id": "5",
+            "timer": "25 min"
+        },
+
+        {
+            "id": "23",
+            "urlImagem": "https://cdn.casaeculinaria.com/wp-content/uploads/2023/02/05161703/Salada-Caprese.webp",
+            "receita": "Salada Caprese",
+            "user": "Davy Ferreira",
+            "categoria_id": "5",
+            "timer": "20 min"
+        },
+
+        {
+            "id": "24",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBrLwLq9L57Wi0wkp9gnBTugM59Z7STGATlRIKnmH5Xv3Tf-LiZuT_lvl&s=10",
+            "receita": "Salada de Quinoa",
+            "user": "Isaac Gabriel",
+            "categoria_id": "5",
+            "timer": "15 min"
+        },
+
+        {
+            "id": "25",
+            "urlImagem": "https://receitasbaratas.com.br/wp-content/uploads/2024/12/Salada-Tropical-que-Encanta-na-Ceia.jpg.webp",
+            "receita": "Salada Tropical",
+            "user": "Carlos Gardel",
+            "categoria_id": "5",
+            "timer": "25 min"
+        },
+
+        {
+            "id": "26",
+            "urlImagem": "https://teamodoce.com.br/wp-content/uploads/2025/03/Pudim-de-Leite-Condensado-com-Furinhos-Novo.webp",
+            "receita": "Pudim de Leite",
+            "user": "Pedro Henrique",
+            "categoria_id": "6",
+            "timer": "1h 20 min"
+        },
+
+        {
+            "id": "27",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvTCSefdZ2323p-sxfn8J9v-fa25LlzgnpR2v1vVj-zdJCnUfaQxe8tI&s=10",
+            "receita": "Brigadeiro",
+            "user": "Alaryce Jaylle",
+            "categoria_id": "6",
+            "timer": "10 min"
+        },
+
+        {
+            "id": "28",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR209Musz7Dn1FMMqfT1-kw76gPa_C8D0yC56W7fbf-4DaC7YOQ43sdBTI&s=10",
+            "receita": "Mousse de Maracujá",
+            "user": "Pedro Antonio",
+            "categoria_id": "6",
+            "timer": "25 min"
+        },
+        
+        {
+            "id": "29",
+            "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2007/01/petit-gateau.jpg",
+            "receita": "Petit Gateau",
+            "user": "Sabynna Louyse",
+            "categoria_id": "6",
+            "timer": "30 min"
+        },
+
+        {
+            "id": "30",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpV8HQGlAAy1MxJLB4w_NIVgsdZUmShjZMzWq-kyd3L9QcTEb2VLPaWAQ&s=10",
+            "receita": "Sorvete Caseiro",
+            "user": "Wecikly Monteiro",
+            "categoria_id": "6",
+            "timer": "3h"
+        },
+
+        {
+            "id": "31",
+            "urlImagem": "https://www.oetker.com.br/assets/recipes/assets/d044a4ef3cfe45998593f500c00942ef/1272x764/torta-de-limo.jpg",
+            "receita": "Torta de Limão",
+            "user": "Keysson Ruan",
+            "categoria_id": "7",
+            "timer": "3h 30 min"
+        },
+
+        {
+            "id": "32",
+            "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTksZTzsLer0q1IO991Vi_TH-1Q7Aivba1sv-8LuiG7gx-bAqssIP7BBPU&s=10",
+            "receita": "Torta de Frango",
+            "user": "Matheus Soares",
+            "categoria_id": "7",
+            "timer": "1h"
+        },
+
+        {
+            "id": "33",
+            "urlImagem": "https://static.ndmais.com.br/2026/01/torta-de-chocolate-1-1300x731.jpg",
+            "receita": "Torta de Chocolate",
+            "user": "Arthur Vinicius",
+            "categoria_id": "7",
+            "timer": "1h 30 min"
+        },
+
+        {
+            "id": "34",
+            "urlImagem": "https://www.receitasja.com.br/wp-content/uploads/2025/04/Torta-de-Morango.jpg",
+            "receita": "Torta de Morango",
+            "user": "Kevin William",
+            "categoria_id": "7",
+            "timer": "2h"
+        },
+
+        {
+            "id": "35",
+            "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2021/08/torta-salgada-receitas.jpg",
+            "receita": "Torta Salgada",
+            "user": "Luana Kellyn",
+            "categoria_id": "7",
+            "timer": "2h 30min"
+        }
+    ]
+}
