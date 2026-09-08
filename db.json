@@ -29,11 +29,6 @@
       "id": "6",
       "urlImagem": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
       "categoria": "Sobremesas"
-    },
-    {
-      "id": "7",
-      "urlImagem": "https://images.unsplash.com/photo-1519869325930-281384150729",
-      "categoria": "Tortas"
     }
   ],
   "Receitas_categoria": [
@@ -276,46 +271,6 @@
       "user": "Wecikly Monteiro",
       "categoria_id": "6",
       "timer": "3h"
-    },
-    {
-      "id": "31",
-      "urlImagem": "https://images.unsplash.com/photo-1519869325930-281384150729",
-      "receita": "Torta de Limão",
-      "user": "Keysson Ruan",
-      "categoria_id": "7",
-      "timer": "3h 30 min"
-    },
-    {
-      "id": "32",
-      "urlImagem": "https://images.unsplash.com/photo-1519869325930-281384150729",
-      "receita": "Torta de Frango",
-      "user": "Matheus Soares",
-      "categoria_id": "7",
-      "timer": "1h"
-    },
-    {
-      "id": "33",
-      "urlImagem": "https://images.unsplash.com/photo-1519869325930-281384150729",
-      "receita": "Torta de Chocolate",
-      "user": "Arthur Vinicius",
-      "categoria_id": "7",
-      "timer": "1h 30 min"
-    },
-    {
-      "id": "34",
-      "urlImagem": "https://images.unsplash.com/photo-1519869325930-281384150729",
-      "receita": "Torta de Morango",
-      "user": "Kevin William",
-      "categoria_id": "7",
-      "timer": "2h"
-    },
-    {
-      "id": "35",
-      "urlImagem": "https://images.unsplash.com/photo-1519869325930-281384150729",
-      "receita": "Torta Salgada",
-      "user": "Luana Kellyn",
-      "categoria_id": "7",
-      "timer": "2h 30min"
     }
   ]
 }
