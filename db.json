@@ -70,15 +70,6 @@
     },
     {
       "id": 5,
-      "urlImagem": "https://myfoodbook.com.au/sites/default/files/styles/card_c_xw_wp/public/recipe_photo/Spaghetti_Bolognese%20Sauce_0.jpeg",
-      "receita": "Spaghetti Bolognese",
-      "user": "Isabella Ribeiro",
-      "categoria_id": 1,
-      "timer": "25 min",
-      "rate": "4.9"
-    },
-    {
-      "id": 6,
       "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/picanha-grelhada-na-churrasqueira-receita.jpg",
       "receita": "Picanha Grelhada",
       "user": "Marcus Fellype",
@@ -87,7 +78,7 @@
       "rate": "5.0"
     },
     {
-      "id": 7,
+      "id": 6,
       "urlImagem": "https://s2-receitas.glbimg.com/Sekdv7EdPfw90fD-CiGEhXfhTjw=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/C/k/FH6JwZRxe5q3bUrZASYA/carne-de-panela-com-batatas.jpg",
       "receita": "Carne de Panela",
       "user": "Jeferson Gama",
@@ -96,7 +87,7 @@
       "rate": "4.6"
     },
     {
-      "id": 8,
+      "id": 7,
       "urlImagem": "https://i.ytimg.com/vi/MjUQFcWAZsw/maxresdefault.jpg",
       "receita": "Costela na Pressão",
       "user": "Wadeilton Gomes",
@@ -105,7 +96,7 @@
       "rate": "4.4"
     },
     {
-      "id": 9,
+      "id": 8,
       "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywGzlIJVzEnvzDdLesDh9eeWs9FU9Ok5ABTW_nvC8s6WRTxgqfeXy_aSV&s=10",
       "receita": "Bife à Parmegiana",
       "user": "João Vitor",
@@ -114,16 +105,7 @@
       "rate": "4.9"
     },
     {
-      "id": 10,
-      "urlImagem": "https://www.tribunapr.com.br/wp-content/uploads/2025/07/11130933/carneassadacomlegumes-970x550.jpg",
-      "receita": "Carne Assada",
-      "user": "Rodrigo dos Santos",
-      "categoria_id": 2,
-      "timer": "35 min",
-      "rate": "4.1"
-    },
-    {
-      "id": 11,
+      "id": 9,
       "urlImagem": "https://img.band.com.br/image/2025/06/18/frango-assado-com-legumes-e-ervas-185617.jpg",
       "receita": "Frango Assado",
       "user": "Gustavo Rafael",
@@ -132,7 +114,7 @@
       "rate": "4.3"
     },
     {
-      "id": 12,
+      "id": 10,
       "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRikwJevIhQ8nTOFNkbWv7KZwF2jAiccVQSr9CoeJkogWcGbphwIsTzQ1&s=10",
       "receita": "Frango Xadrez",
       "user": "Raissa Almeida",
@@ -141,7 +123,7 @@
       "rate": "4.0"
     },
     {
-      "id": 13,
+      "id": 11,
       "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhM9mbflOGSLZo1qczXrdfgTUxIo4mptZP2__D68MFL-JOIvShHjZriaT0&s=10",
       "receita": "Coxinha de Frango",
       "user": "Lucas Adiel",
@@ -150,7 +132,7 @@
       "rate": "4.8"
     },
     {
-      "id": 14,
+      "id": 12,
       "urlImagem": "https://www.confeiteiradesucesso.com/wp-content/uploads/2023/03/filepeitofrangogrelhado.jpg",
       "receita": "Frango Grelhado",
       "user": "José Adryellison",
@@ -159,16 +141,7 @@
       "rate": "3.9"
     },
     {
-      "id": 15,
-      "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoeFsA0rmlySlOQq3Jmweq28Ak1Dt_sc8ZKUzFp-67-LQ9ZiBScUJIYHY&s=10",
-      "receita": "Frango a milanesa",
-      "user": "Marcos Antônio",
-      "categoria_id": 3,
-      "timer": "45 min",
-      "rate": "4.5"
-    },
-    {
-      "id": 16,
+      "id": 13,
       "urlImagem": "https://areademulher.r7.com/wp-content/uploads/2023/02/2-19.jpg",
       "receita": "Peixe Assado",
       "user": "Mateus Cavalcante",
@@ -177,7 +150,7 @@
       "rate": "4.2"
     },
     {
-      "id": 17,
+      "id": 14,
       "urlImagem": "https://receitinhasdadani.com.br/wp-content/uploads/2024/11/Salmao-grelhado-com-toque-de-mel--1140x720.jpeg",
       "receita": "Salmão Grelhado",
       "user": "Maycon Daniel",
@@ -186,7 +159,7 @@
       "rate": "4.7"
     },
     {
-      "id": 18,
+      "id": 15,
       "urlImagem": "https://www.mariareceita.com.br/wp-content/uploads/2026/01/Moqueca-de-Peixe-Facil.jpg",
       "receita": "Moqueca de Peixe",
       "user": "Gabriel de Andrade",
@@ -195,7 +168,7 @@
       "rate": "4.9"
     },
     {
-      "id": 19,
+      "id": 16,
       "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmT-e1XH8Dk91Q7ognPW8yzNSE6K278daRpX4DVAf0q5e0V1AdOOc86dB&s=10",
       "receita": "Bacalhau ao Forno",
       "user": "Ycaro dos Reis",
@@ -204,16 +177,7 @@
       "rate": "4.6"
     },
     {
-      "id": 20,
-      "urlImagem": "https://minhasreceitinhas.com.br/wp-content/uploads/2017/09/camar%C3%A3o-frito-com-casca.jpg",
-      "receita": "Camarão frito",
-      "user": "Geovanna Duarte",
-      "categoria_id": 4,
-      "timer": "35 min",
-      "rate": "4.8"
-    },
-    {
-      "id": 21,
+      "id": 17,
       "urlImagem": "https://minhasreceitinhas.com.br/wp-content/uploads/2025/03/salada-caesar-para-4-pessoas.jpg",
       "receita": "Salada Caesar",
       "user": "Maria Eduarda",
@@ -222,7 +186,7 @@
       "rate": "4.4"
     },
     {
-      "id": 22,
+      "id": 18,
       "urlImagem": "https://s2-receitas.glbimg.com/gQcYutciej1aRVKbDWNKdOFIn04=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/a/s/qsN6WGRjK6h9tdRv4kaw/salada-de-grao-de-bico.jpg",
       "receita": "Salada de Grão de Bico",
       "user": "Clarice Feitoza",
@@ -231,7 +195,7 @@
       "rate": "4.1"
     },
     {
-      "id": 23,
+      "id": 19,
       "urlImagem": "https://cdn.casaeculinaria.com/wp-content/uploads/2023/02/05161703/Salada-Caprese.webp",
       "receita": "Salada Caprese",
       "user": "Davy Ferreira",
@@ -240,7 +204,7 @@
       "rate": "4.6"
     },
     {
-      "id": 24,
+      "id": 20,
       "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBrLwLq9L57Wi0wkp9gnBTugM59Z7STGATlRIKnmH5Xv3Tf-LiZuT_lvl&s=10",
       "receita": "Salada de Quinoa",
       "user": "Isaac Gabriel",
@@ -249,16 +213,7 @@
       "rate": "3.8"
     },
     {
-      "id": 25,
-      "urlImagem": "https://receitasbaratas.com.br/wp-content/uploads/2024/12/Salada-Tropical-que-Encanta-na-Ceia.jpg.webp",
-      "receita": "Salada Tropical",
-      "user": "Carlos Gardel",
-      "categoria_id": 5,
-      "timer": "25 min",
-      "rate": "4.3"
-    },
-    {
-      "id": 26,
+      "id": 21,
       "urlImagem": "https://teamodoce.com.br/wp-content/uploads/2025/03/Pudim-de-Leite-Condensado-com-Furinhos-Novo.webp",
       "receita": "Pudim de Leite",
       "user": "Pedro Henrique",
@@ -267,7 +222,7 @@
       "rate": "5.0"
     },
     {
-      "id": 27,
+      "id": 22,
       "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvTCSefdZ2323p-sxfn8J9v-fa25LlzgnpR2v1vVj-zdJCnUfaQxe8tI&s=10",
       "receita": "Brigadeiro",
       "user": "Alaryce Jaylle",
@@ -276,7 +231,7 @@
       "rate": "4.9"
     },
     {
-      "id": 28,
+      "id": 23,
       "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR209Musz7Dn1FMMqfT1-kw76gPa_C8D0yC56W7fbf-4DaC7YOQ43sdBTI&s=10",
       "receita": "Mousse de Maracujá",
       "user": "Pedro Antonio",
@@ -285,22 +240,13 @@
       "rate": "4.5"
     },
     {
-      "id": 29,
+      "id": 24,
       "urlImagem": "https://guiadacozinha.com.br/wp-content/uploads/2007/01/petit-gateau.jpg",
       "receita": "Petit Gateau",
       "user": "Sabynna Louyse",
       "categoria_id": 6,
       "timer": "30 min",
       "rate": "4.7"
-    },
-    {
-      "id": 30,
-      "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpV8HQGlAAy1MxJLB4w_NIVgsdZUmShjZMzWq-kyd3L9QcTEb2VLPaWAQ&s=10",
-      "receita": "Sorvete Caseiro",
-      "user": "Wecikly Monteiro",
-      "categoria_id": 6,
-      "timer": "3h",
-      "rate": "4.2"
     }
   ]
 }
